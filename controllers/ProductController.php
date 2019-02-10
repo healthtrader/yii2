@@ -9,8 +9,7 @@ use yii\web\Controller;
 use yii\web\NotFoundHttpException;
 use yii\filters\VerbFilter;
 use app\models\Stock;
-use app\models\Carts;
-use app\models\Mint;
+use app\models\Cart;
 
 /**
  * ProductController implements the CRUD actions for Products model.
